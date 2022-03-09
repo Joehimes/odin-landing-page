@@ -46,6 +46,7 @@ header {
 .left-intro p {
   font-size: 18px;
   color: #e5e7eb;
+  padding-bottom: 10px;
 }
 
 .intro-button {
@@ -74,6 +75,8 @@ header {
   font-size: 36px;
   font-weight: extra-bold;
   color: #1f2937;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 .about-cards {
@@ -119,7 +122,7 @@ header {
   margin-right: 600px;
   font-size: 18px;
   font-weight: bold;
-  padding-bottom: 20px;
+  padding-bottom: 100px;
 }
 
 .contact {
@@ -137,6 +140,7 @@ header {
 .left-contact h4 {
   margin: auto;
   margin-left: 100px;
+  padding-bottom: 5px;
 }
 
 .left-contact p {
